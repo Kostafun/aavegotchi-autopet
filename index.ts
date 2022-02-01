@@ -3,7 +3,8 @@ import { TransactionResponse } from "@ethersproject/abstract-provider";
 import { ethers } from "ethers";
 
 const TOKEN_IDS = [
-  7988,
+  14375,
+  20382
   // <YOUR_GOTCHI_TOKEN_ID_HERE>
 ];
 
