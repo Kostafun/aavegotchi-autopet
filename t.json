@@ -5,6 +5,20 @@
         "generated_at": "Sat, 27 May 2023 18:28:09 GMT"
     },
     "prompts": [
+                {
+            "positive": "Sexy seductive lsd dream, A lot of lasers, lights of green, blue, yellow, violet and red colors,CGSociety,ArtStation,Psychedelic Art,Digital Art,Psytrance Art,Vivid Colors",
+            "negative": "blurry, duplicate, worst quality, low quality, lowres, normal quality, monochrome, grayscale, age spot,duplicate, poorly drawn, over exposed, burnt image, sloppy, broken, fuzzy, aliasing, cheap, oldschool, distorted, blurry, noise, old, Screenshot,Software,UI,watermark,",
+            "from": 244,
+            "to": 244,
+            "allFrames": true,
+            "name": "Prompt 4",
+            "overlap": {
+                "inFrames": 0,
+                "outFrames": 0,
+                "type": "none",
+                "custom": "prompt_weight_4"
+            }
+        },
         {
             "name": "Prompt 1",
             "positive": "(Digital Artwork:1.1) masterpiece, psychedelic sexy dream, A (smiling sun:${prompt_weight_1}) (dancing happy moon:${prompt_weight_2}) at (day:${prompt_weight_1}) (night:${prompt_weight_2}) on the sky of a (sleepy:${prompt_weight_1}) (happy dancing:${prompt_weight_2})  ",
@@ -45,20 +59,6 @@
                 "outFrames": 0,
                 "type": "linear",
                 "custom": "prompt_weight_3"
-            }
-        },
-        {
-            "positive": "Sexy seductive lsd dream, A lot of lasers, lights of green, blue, yellow, violet and red colors,CGSociety,ArtStation,Psychedelic Art,Digital Art,Psytrance Art,Vivid Colors",
-            "negative": "blurry, duplicate, worst quality, low quality, lowres, normal quality, monochrome, grayscale, age spot,duplicate, poorly drawn, over exposed, burnt image, sloppy, broken, fuzzy, aliasing, cheap, oldschool, distorted, blurry, noise, old, Screenshot,Software,UI,watermark,",
-            "from": 244,
-            "to": 244,
-            "allFrames": true,
-            "name": "Prompt 4",
-            "overlap": {
-                "inFrames": 0,
-                "outFrames": 0,
-                "type": "none",
-                "custom": "prompt_weight_4"
             }
         }
     ],
