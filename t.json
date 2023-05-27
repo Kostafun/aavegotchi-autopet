@@ -2,15 +2,15 @@
     "meta": {
         "generated_by": "sd_parseq",
         "version": "0.1.57",
-        "generated_at": "Sat, 27 May 2023 18:28:09 GMT"
+        "generated_at": "Sat, 27 May 2023 18:35:55 GMT"
     },
     "prompts": [
                 {
             "positive": "Sexy seductive lsd dream, A lot of lasers, lights of green, blue, yellow, violet and red colors,CGSociety,ArtStation,Psychedelic Art,Digital Art,Psytrance Art,Vivid Colors",
             "negative": "blurry, duplicate, worst quality, low quality, lowres, normal quality, monochrome, grayscale, age spot,duplicate, poorly drawn, over exposed, burnt image, sloppy, broken, fuzzy, aliasing, cheap, oldschool, distorted, blurry, noise, old, Screenshot,Software,UI,watermark,",
-            "from": 244,
+            "from": 0,
             "to": 244,
-            "allFrames": true,
+            "allFrames": false,
             "name": "Prompt 4",
             "overlap": {
                 "inFrames": 0,
@@ -61,6 +61,7 @@
                 "custom": "prompt_weight_3"
             }
         }
+
     ],
     "options": {
         "input_fps": "",
